@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 李一平
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yiping Li
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yiping
+last_name: Li
 
 # Status emoji
 status:
