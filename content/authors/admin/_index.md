@@ -112,11 +112,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Fortran/Python/C++
+      - name: Fortran\/ Python\/C++
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Algorithm/Numerical Simulation
+      - name: Algorithm\/Numerical Simulation
         description: ''
         percent: 80
         icon: chart-bar
