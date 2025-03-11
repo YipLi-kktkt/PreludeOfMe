@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 李一平
+title: Yiping Li 李一平
 
 # Name pronunciation (optional)
-name_pronunciation: Yiping Li
+name_pronunciation:''
 
 # Full name (for SEO)
 first_name: Yiping
@@ -112,7 +112,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Fortran\/ Python\/C++
+      - name: Fortran\/Python\/C++
         description: ''
         percent: 100
         icon: code-bracket
