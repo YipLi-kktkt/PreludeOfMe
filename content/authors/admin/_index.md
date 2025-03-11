@@ -64,7 +64,7 @@ education:
   - area: MSc Astrophysics
     institution: Nanjing University School of Astronomy and Space Science
     date_start: 2020-09-05
-    date_end: 2023-9-16
+    date_end: 2023-09-16
     summary: |
       GPA: 3.8/4.0
 
