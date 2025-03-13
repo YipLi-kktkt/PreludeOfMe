@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yiping Li 李一平
+title: 李一平
 
 # Name pronunciation (optional)
-name_pronunciation:''
+name_pronunciation: Li Yiping
 
 # Full name (for SEO)
 first_name: Yiping
