@@ -3,7 +3,7 @@
 title: 李一平
 
 # Name pronunciation (optional)
-name_pronunciation: Li Yiping
+name_pronunciation: Li Yi ping
 
 # Full name (for SEO)
 first_name: Yiping
@@ -149,8 +149,8 @@ languages:
     percent: 75
   # - name: Portuguese
   #   percent: 25
-
-# Awards.
+---
+<!-- # Awards.
   # Add/remove as many awards below as you like.
   # Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
@@ -161,8 +161,7 @@ languages:
 #     awarder: Coursera
 #     icon: coursera
 #     summary: 
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
----
+#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications. -->
 
 ## About Me
 
