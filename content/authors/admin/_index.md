@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Freelance
+role: Gap Year
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -152,7 +152,7 @@ languages:
 
 # Awards.
   # Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
+  # Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 # awards:
 #   - title: Neural Networks and Deep Learning
@@ -166,4 +166,6 @@ languages:
 
 ## About Me
 
-Yip is a Master of astrophysics. Her research interests include numerical simulation, high-energy astrophysics and extrogalaxies. She developed resonanting simulation code of supernova remnant.
+_Yip_ is currently in her Gap year at HangZhou, China. She completed her graduate study at Nanjing University in 2023. Her research interests as a astrophysicist on <mark>interstellar medium</mark> and <mark>high-energy astrophysics</mark>. She developed scattering simulation code of supernova remnant.
+
+# She engages in improving academic skills as a mordern international astrophysicist, meanwhile in traveling, volunteering friend's workshop.
