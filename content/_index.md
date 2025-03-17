@@ -56,8 +56,8 @@ sections:
       columns: 1
   - block: collection
     content:
-      title: My Publications
-      text: ""
+      title: All Publications
+      # text: ""
       filters:
         folders:
           - publication

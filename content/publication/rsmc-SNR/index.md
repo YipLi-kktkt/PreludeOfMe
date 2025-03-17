@@ -1,8 +1,7 @@
 ---
 title: "A Monte Carlo Simulation on Resonant Scattering of X-Ray Line Emission in Supernova Remnants"
 authors:
-# - admin
--
+- admin
 - Gao-Yuan Zhang
 - Yang Chen
 - Lei Sun
