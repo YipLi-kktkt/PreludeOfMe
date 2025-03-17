@@ -1,7 +1,8 @@
 ---
 title: "A Monte Carlo Simulation on Resonant Scattering of X-Ray Line Emission in Supernova Remnants"
 authors:
-- admin
+# - admin
+-
 - Gao-Yuan Zhang
 - Yang Chen
 - Lei Sun
@@ -53,6 +54,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Center for Astrophysics** _Harvard & Smithsonian_](https://www.cfa.harvard.edu/news/cygnus-loop)'
   focal_point: ""
+  position: center
   preview_only: false
 
 # Associated Projects (optional).

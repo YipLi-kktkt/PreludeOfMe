@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 李一平
+title: Yiping Li
 
 # Name pronunciation (optional)
-name_pronunciation: Li Yi ping
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Yiping
@@ -166,6 +166,6 @@ languages:
 
 ## About Me
 
-_Yiping_ is currently in her Gap year at HangZhou, China. She completed her graduate study at Nanjing University in 2023. Her research interests as a astrophysicist on _interstellar medium_ and _high-energy astrophysics_. She developed scattering simulation code of supernova remnant.
+Hi, I am Yiping Li (李一平). _Yiping_ is currently in her Gap year at HangZhou, China. She completed her graduate study at Nanjing University in 2023. Her research interests as a astrophysicist on _interstellar medium_ and _high-energy astrophysics_. She developed scattering simulation code of supernova remnant.
 
 <!-- She engages in improving academic skills as a mordern international astrophysicist, meanwhile in traveling, volunteering friend's workshop. -->
