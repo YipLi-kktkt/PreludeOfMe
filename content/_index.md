@@ -84,8 +84,6 @@ sections:
       count: 5
       # Filter on criteria
       filters:
-        folders:
-          - post
         author: ""
         category: ""
         tag: ""
