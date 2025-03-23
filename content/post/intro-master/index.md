@@ -1,5 +1,5 @@
 ---
-title: Presentation of Resonant Scattering Simulation of X-ray Line Emission in Supernova Remnants
+title: 👩🏼‍🏫 Presentation of Resonant Scattering Simulation of X-ray Line Emission in Supernova Remnants
 summary: Introduce the thesis of my master degree in English.
 date: 2025-03-24
 math: true
