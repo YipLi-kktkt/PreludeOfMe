@@ -1,21 +1,33 @@
 ---
-title: Presentation of Resonant Scattering Simulation of X-ray Line Emission in Supernova Remnants
-summary: Introduce the thesis of my master degree in English.
-date: 2025-03-24
+# title: Presentation of Resonant Scattering Simulation of X-ray Line Emission in Supernova Remnants
+# summary: Introduce the thesis of my master degree in English.
+# date: 2025-03-24
+# math: true
+# authors:
+#   - admin
+# tags:
+#   - Supernova Remnant
+# image:
+#   caption: 'em'
+title: 👩🏼‍🏫 Teach academic courses
+summary: Embed videos, podcasts, code, LaTeX math, and even test students!
+date: 2023-10-24
 math: true
 authors:
   - admin
 tags:
-  - Supernova Remnant
+  - Hugo
+  - Hugo Blox Builder
+  - Markdown
 image:
-  caption: 'em'
+  caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
 On this page, I'll introduce my master's thesis in English. The page also lists the answers to questions asked in the thesis defense, translated from Chinese, under the video.
 
 ## Video
 
-If the video can't play, plese Choose from one of the following approaches:
+If the video can't play, please inform me. Choose from one of the following approaches:
 
 **Youtube**:
 
