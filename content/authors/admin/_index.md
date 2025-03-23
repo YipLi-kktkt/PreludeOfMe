@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: enjoying Gap Year
+role: Gap Year
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,9 +47,8 @@ profiles:
     url: https://orcid.org/0000-0001-7571-2318
 
 interests:
-  - High-energy Astrophysic
-  - Interstellar Medium
-  - X-ray observation
+  - X-ray Astrophysics
+  - Numerical Simulation
 
 education:
   # - area: PhD Artificial Intelligence
@@ -66,7 +65,7 @@ education:
     date_start: 2020-09-05
     date_end: 2023-09-16
     summary: |
-      Thesis on _A Monte-Carlo Simulation on Resonant Scattering of X-ray Line Emission in Supernova Remnants_. Supervised by [Prof Yang Chen](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113699.html). Presented papers at The Astrophysical Journal (https://doi.org/10.3847/1538-4357/ad3b94) with the contributions being published in The Astrophysical Journal (https://doi.org/10.3847/1538-4357/adb0b5) journals.
+      Thesis on _A Monte-Carlo Simulation on Resonant Scattering of X-ray Line Emission in Supernova Remnants_. Supervised by [Prof Yang Chen](https://astronomy.nju.edu.cn/EN/People/Professors/20200707/i113699.html). Published a paper at The Astrophysical Journal (https://doi.org/10.3847/1538-4357/ad3b94) with the contributions being published in The Astrophysical Journal (https://doi.org/10.3847/1538-4357/adb0b5).
 
       GPA: 3.22/4.0
 
@@ -166,6 +165,6 @@ languages:
 
 ## About Me
 
-Hi, I am Yiping Li (李一平). _Yiping_ is currently in her Gap year at HangZhou, China. She completed her graduate study at Nanjing University in 2023. Her research interests as a astrophysicist on _interstellar medium_ and _high-energy astrophysics_. She developed scattering simulation code of supernova remnant.
+Hi, I am Yiping Li (李一平). I'm currently in the Gap year in Hangzhou, China, pursuing my PhD program. I completed my master's degree at Nanjing University last year (2023). My goal is to be an astrophysicist to explore the world. I interest _X-ray astrophysics_ and _interstellar medium_ presently. I had developed resonant scattering simulation code for supernova remnant during my master's study.
 
 <!-- She engages in improving academic skills as a mordern international astrophysicist, meanwhile in traveling, volunteering friend's workshop. -->
