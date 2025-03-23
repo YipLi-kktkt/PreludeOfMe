@@ -93,19 +93,19 @@ work:
     date_end: 2024-10-01
     summary: |2-
       Responsibilities include:
-      - doing research of RXTE archival
-      - organizing group activities regularly
-  - position: Local Organizing Committee Chair
-    institution: The high-resolution X-ray and UV spectroscopy capacity-building workshop, Nanjing University, School of Astronomy and Space Science
+      - Doing research of RXTE archival
+      - Organizing group activities regularly
+  - position: The high-resolution X-ray and UV spectroscopy capacity-building workshop Local Organizing Committee Chair
+    institution: Nanjing University, School of Astronomy and Space Science
     company_url: https://astronomy.nju.edu.cn/njdx/front/expand/registration/view.do?iid=82
     company_logo: ''
     date_start: 2022-07-01
     date_end: 2022-08-18
     summary: |
       Responsibilities include:
-      - The high-resolution X-ray and UV spectroscopy (HiXUV) capacity-building workshop
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Handle the entire workshop processing cycle, including software and cloud, and timely resolution of errors. 
+      - Support meetings through assisting, problem resolution, and testing. 
+      - Collaborate closely with lecturers and members to resolve issues promptly and efficiently.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
