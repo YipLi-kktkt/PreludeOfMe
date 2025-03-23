@@ -19,22 +19,22 @@ If the video can't play, please inform me. Choose from one of the following appr
 
 **Youtube**:
 
-    {{< youtube D2vj0WcvH5c >}}
+{{< youtube D2vj0WcvH5c >}}
 
 
 ## Q&A
 
-**Q1: Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:**
+Q1: Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
 
 ```yaml
 due to the, we can observe in future.
 ```
 
 
-**Q2: math block**:
+Q2: math block:
 ```yaml
 due to the, we can observe in future.
 ```
 
 
-## Did you find this research useful? Consider sharing it 🙌
+#### Did you find this research useful? Consider sharing it 🙌
