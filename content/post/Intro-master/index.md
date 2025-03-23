@@ -8,7 +8,7 @@ authors:
 tags:
   - Supernova Remnant
 image:
-  caption: ''
+  caption: 'em'
 ---
 
 **On this page, I'll introduce my master's thesis in English. The page also lists the answers to questions asked in the thesis defense, translated from Chinese, under the video.**
