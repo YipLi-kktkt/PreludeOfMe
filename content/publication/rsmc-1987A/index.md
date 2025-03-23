@@ -5,7 +5,7 @@ authors:
 - Salvatore Orlando
 - Emanuele Greco
 - Marco Miceli
-- admin
+- Yiping Li
 - Yang Chen
 - Jacco Vink
 - Ping Zhou
