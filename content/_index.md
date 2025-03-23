@@ -61,21 +61,20 @@ sections:
       filters:
         folders:
           - publication
-        title: "Unusual X-Ray Oxygen Line Ratios of SN 1987A Arising from the Absorption of Galactic Hot Interstellar Medium"
-        authors:
-        - Lei Sun
-        - Salvatore Orlando
-        - Emanuele Greco
-        - Marco Miceli
-        - adimin
-        - Yang Chen
-        - Jacco Vink
-        - Ping Zhou
-        date: "2025-03-04T00:00:00Z"
-        doi: "10.3847/1538-4357/adb0b5"
-        publication_types: ["article"]
-
         exclude_featured: false
+      title: "Unusual X-Ray Oxygen Line Ratios of SN 1987A Arising from the Absorption of Galactic Hot Interstellar Medium"
+      authors:
+      - Lei Sun
+      - Salvatore Orlando
+      - Emanuele Greco
+      - Marco Miceli
+      - adimin
+      - Yang Chen
+      - Jacco Vink
+      - Ping Zhou
+      date: "2025-03-04T00:00:00Z"
+      doi: "10.3847/1538-4357/adb0b5"
+      publication_types: ["article"]
     design:
       view: citation
   - block: collection
