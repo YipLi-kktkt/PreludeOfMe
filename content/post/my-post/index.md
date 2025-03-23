@@ -6,7 +6,7 @@ math: true
 authors:
   - admin
 tags:
-  - Supernova Remnant
+  - Hugo
 # image:
 #   caption: ''
 ---
