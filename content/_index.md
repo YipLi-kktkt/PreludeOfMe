@@ -71,10 +71,10 @@ sections:
         - Yang Chen
         - Jacco Vink
         - Ping Zhou
-        date:"2025-03-04T00:00:00Z"
-        doi:"10.3847/1538-4357/adb0b5"
+        date: "2025-03-04T00:00:00Z"
+        doi: "10.3847/1538-4357/adb0b5"
         publication_types: ["article"]
-        
+
         exclude_featured: false
     design:
       view: citation
