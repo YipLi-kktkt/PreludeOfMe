@@ -19,6 +19,6 @@ Welcome 👋
 
 ## Latex Icons
 
-Some $\LaTeX$ libraries.
+Some $\LaTeX$ packages.
 
-### [fontawesome5](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ipgp.fr/~moguilny/LaTeX/fontawesome5Icons.pdf)
+fontawesome5: https://www.ipgp.fr/~moguilny/LaTeX/fontawesome5Icons.pdf
