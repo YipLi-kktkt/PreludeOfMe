@@ -11,11 +11,11 @@ tags:
 #   caption: ''
 ---
 
-On this page, I'll introduce my master's thesis in English. The page also lists the answers to questions asked in the thesis defense, translated from Chinese, under the video.
+On this page, I'd like to introduce my master's thesis in English. The page also lists the answers to questions asked in the thesis defense, translated from Chinese, under the video.
 
 ## Video
 
-If the video can't play, please inform me. Choose from one of the following approaches:
+If the video can't play, please inform me:
 
 **Youtube**:
 
@@ -37,4 +37,4 @@ due to the, we can observe in future.
 ```
 
 
-#### Did you find this research useful? Consider sharing it 🙌
+## Did you find this research useful? Consider sharing it 🙌
