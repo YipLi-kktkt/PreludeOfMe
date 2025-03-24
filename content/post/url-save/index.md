@@ -17,9 +17,8 @@ tags:
 
 Welcome 👋
 
-{{< toc mobile_only=true is_open=true >}}
 ## Latex Icons
 
-Some $\latex$ libraries.
+Some $\LaTeX$ libraries.
 
 ### [fontawesome5](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.ipgp.fr/~moguilny/LaTeX/fontawesome5Icons.pdf)
