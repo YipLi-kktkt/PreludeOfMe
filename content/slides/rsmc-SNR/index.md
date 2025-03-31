@@ -1,6 +1,6 @@
 ---
 presentation:
-  theme: serif.css
+  theme: solarized.css
   mouseWheel: true
   width: 1000
   height: 900
