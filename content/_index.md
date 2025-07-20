@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         
-        I blog about astrophysics including the researches and notes.
+        Welcome to my blog. I blog about astrophysics including the researches and notes.
 
         Please reach out to collaborate 😃
     design:
