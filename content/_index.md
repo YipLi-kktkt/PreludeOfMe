@@ -32,11 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Blog'
       subtitle: ''
       text: |-
         
-        I blog about astrophysics including researches and notes.
+        I blog about astrophysics including the researches and notes.
 
         Please reach out to collaborate 😃
     design:
