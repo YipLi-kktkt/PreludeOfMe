@@ -165,6 +165,8 @@ languages:
 
 ## About Me
 
-Hi, I am Yiping Li (李一平). I'm currently in a Gap year in Hangzhou, China, pursuing my PhD program. I completed my master's degree at Nanjing University in 2023. My goal is to be an astrophysicist to explore the world. I interested _X-ray astrophysics_ and _interstellar medium_ presently. I had developed a resonant scattering simulation code for supernova remnant during my Master's study.
+Hi, I am Yiping Li (李一平). I'm currently in a Gap year in Hangzhou, China, pursuing my PhD program. 
+
+I completed my master's degree at Nanjing University in 2023. My goal is to be an astrophysicist to explore the world. I interested _X-ray astrophysics_ and _interstellar medium_ presently. I had developed a resonant scattering simulation code for supernova remnant during my Master's study.
 
 <!-- She engages in improving academic skills as a mordern international astrophysicist, meanwhile in traveling, volunteering friend's workshop. -->

@@ -11,7 +11,7 @@ tags:
 #   caption: ''
 ---
 
-On this page, I'd like to introduce my master's thesis in English. The page also lists the answers to questions asked in the thesis defense, translated from Chinese, under the video.
+On this page, I'd like to introduce my master's thesis in English. The page also provides the answers to some frequently asked questions, translated from Chinese, under the video.
 
 ## Video
 
