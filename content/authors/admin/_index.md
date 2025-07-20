@@ -128,15 +128,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Film
+      - name: Movie
         description: ''
         percent: 60
         icon: film
-      - name: Writting
+      - name: Reading
         description: ''
         percent: 80
-        icon: pencil
-      - name: Natural
+        icon: book
+      - name: Photography
         description: ''
         percent: 80
         icon: photo
@@ -165,6 +165,6 @@ languages:
 
 ## About Me
 
-Hi, I am Yiping Li (李一平). I'm currently in the Gap year in Hangzhou, China, pursuing my PhD program. I completed my master's degree at Nanjing University last year (2023). My goal is to be an astrophysicist to explore the world. I interest _X-ray astrophysics_ and _interstellar medium_ presently. I had developed resonant scattering simulation code for supernova remnant during my master's study.
+Hi, I am Yiping Li (李一平). I'm currently in a Gap year in Hangzhou, China, pursuing my PhD program. I completed my master's degree at Nanjing University in 2023. My goal is to be an astrophysicist to explore the world. I interested _X-ray astrophysics_ and _interstellar medium_ presently. I had developed a resonant scattering simulation code for supernova remnant during my Master's study.
 
 <!-- She engages in improving academic skills as a mordern international astrophysicist, meanwhile in traveling, volunteering friend's workshop. -->

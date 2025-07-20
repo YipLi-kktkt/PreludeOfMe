@@ -19,21 +19,21 @@ If the video can't play, please inform me:
 
 **Youtube**:
 
-{{< youtube D2vj0WcvH5c >}}
+{{< youtube KDlEfjkf6_5iBcOv >}}
 
 
 ## Q&A
 
-Q1: Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. Enable math by setting the `math: true` option in your page's front matter, or enable math for your entire site by toggling math in your `config/_default/params.yaml` file:
+Q1: How to distinguish the charge exchange effect and the resonant scattering effect in SNR?
 
 ```yaml
-due to the, we can observe in future.
+For spherical SNR, RS will make the G-ratio higher from the edge region and lower from the inner region at the same time. Whereas CX only affects the region where it happens.
 ```
 
 
-Q2: math block:
+Q2: What we can see in the near future?
 ```yaml
-due to the, we can observe in future.
+The surface brightness and ratio distortion can be observed with Missions presently and shortly.
 ```
 
 

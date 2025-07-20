@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*The Astrophysical Journal*"
-publication_short: ""
+publication_short: "ApJ"
 
 abstract: Resonant scattering (RS) of X-ray line emission in supernova remnants (SNR) has a potential impact on estimating the physical properties. Here we present our Monte Carlo simulation results of X-ray resonant-line emission from SNR. We employ the physical conditions characterized by the Sedov–Taylor solution. The results include the line profiles, the surface brightness, the G-ratio of the O VII Heα triplet. We show that the RS effect of Cygnus Loop is non-negligible, and of Cas A, the SNR in ejecta-dominated phases, may have some apparent effects on the shocked ejecta observational properties of oxygen-resonant lines.
 
@@ -68,7 +68,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: rsmc-SNR
+slides: ""
 ---
 
 <!-- {{% callout note %}}
