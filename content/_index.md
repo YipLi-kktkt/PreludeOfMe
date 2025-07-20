@@ -36,8 +36,8 @@ sections:
       subtitle: ''
       text: |-
         
-        I blog about my researches.
-        
+        I blog about astrophysics including researches and notes.
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
