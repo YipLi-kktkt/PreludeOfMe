@@ -166,8 +166,8 @@ languages:
 
 ## About Me
 
-Hi, I am Yiping Li (李一平). I'm currently in a Gap year in Hangzhou, China, pursuing my PhD program. 
+Hi, I am Yiping Li (李一平). Currently, I'm living in Hangzhou, China, and I am pursuing my PhD program. My research interests primarily focus on the _Interstellar Medium_ and _High-energy Astrophysics_. ISM is the engine driving the cosmic cycle, offering a window into understanding stars and galaxies.
 
-I completed my master's degree at Nanjing University in 2023. My goal is to be an astrophysicist to explore the universe. I interested _X-ray astrophysics_, _Spectral Analysis_ and _Numerical Simulation_ presently. I had developed a resonant scattering simulation code for supernova remnant during my Master's study.
+I completed my master's degree at Nanjing University in 2023. My goal is to be an astrophysicist to explore the universe. During my master's research, I had developed a resonant scattering simulation code for supernova remnant.
 
 <!-- She engages in improving academic skills as a mordern international astrophysicist, meanwhile in traveling, volunteering friend's workshop. -->
