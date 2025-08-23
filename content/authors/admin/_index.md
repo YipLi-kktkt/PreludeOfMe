@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/0000-0001-7571-2318
 
 interests:
-  - X-ray Astrophysics
+  - High-energy Astrophysics
   - Spectral Analysis
   - Numerical Simulation
 
